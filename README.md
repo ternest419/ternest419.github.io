@@ -19,15 +19,15 @@ The original project from IT-145 and it's accompanying summary.
 The Pet project redone in C++ done over the course of module 3 to module 7 and their accompanying narratives.
 
 ###### Enhancement One: Software Design and Engineering
-[Pet Check-In Project Version One](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%20Pet%20Check-In%20Project%20V1.cpp)
-[Pet Check-In Project Version One Narrative](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%203-2%20Narrative.docx)
+-[Pet Check-In Project Version One](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%20Pet%20Check-In%20Project%20V1.cpp)
+-[Pet Check-In Project Version One Narrative](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%203-2%20Narrative.docx)
 
 ###### Enhancement Two: Algorithms and Data Structure
-[Pet Check-In Project Version Two](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%20Pet%20Check-In%20Project%20V2.cpp)
-[Pet Check-In Project Version Two Narrative](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%204-2%20Narrative.docx)
+-[Pet Check-In Project Version Two](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%20Pet%20Check-In%20Project%20V2.cpp)
+-[Pet Check-In Project Version Two Narrative](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%204-2%20Narrative.docx)
 
 ###### Enhancement Three: Databases
-[Pet Check-In Project Version Three](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%20Pet%20Check-In%20Project%20V3.cpp)
-[Pet Check-In Project Version Three Narrative](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%205-2%20Narrative.docx)
+-[Pet Check-In Project Version Three](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%20Pet%20Check-In%20Project%20V3.cpp)
+-[Pet Check-In Project Version Three Narrative](https://github.com/ternest419/ternest419.github.io/blob/main/CS-499%205-2%20Narrative.docx)
 
 
